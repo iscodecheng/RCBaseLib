@@ -1,0 +1,16 @@
+PODS:
+  - RCBaseLib (0.1.0)
+
+DEPENDENCIES:
+  - RCBaseLib (from `../`)
+
+EXTERNAL SOURCES:
+  RCBaseLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  RCBaseLib: 2e786fa88383878253786b6c6739e524de2a1bd5
+
+PODFILE CHECKSUM: e5a0eaa8ee8af9cd6897e9940b50930925dd78f2
+
+COCOAPODS: 1.14.3

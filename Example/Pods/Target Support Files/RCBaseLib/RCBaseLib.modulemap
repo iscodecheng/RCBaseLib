@@ -1,0 +1,6 @@
+framework module RCBaseLib {
+  umbrella header "RCBaseLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
