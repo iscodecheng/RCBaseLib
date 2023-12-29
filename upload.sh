@@ -16,9 +16,9 @@
 #pod repo push ROSPrivatePods SOCLive_BaseLib.podspec --verbose --allow-warnings --use-libraries --use-modular-headers
 
 git add .
-git commit -am '0.1.0'
-git tag 0.1.0
+git commit -am '0.1.1'
+git tag 0.1.1
 git push origin master --tags
 
-pod lib lint RCBaseLib.podspec --allow-warnings --use-libraries
+#pod lib lint RCBaseLib.podspec --allow-warnings --use-libraries
 pod repo push RCPrivatePods RCBaseLib.podspec --verbose --allow-warnings --use-libraries --use-modular-headers --skip-import-validation

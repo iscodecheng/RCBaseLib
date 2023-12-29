@@ -6,7 +6,8 @@
 //  Copyright (c) 2023 iscodecheng. All rights reserved.
 //
 
-@import UIKit;
+#import <Foundation/Foundation.h>
+#import <UIKit/UIKit.h>
 
 @interface RCViewController : UIViewController
 

@@ -7,6 +7,8 @@
 //
 
 #import "RCViewController.h"
+#import "CTMediator+RCUserInfo.h"
+
 
 @interface RCViewController ()
 

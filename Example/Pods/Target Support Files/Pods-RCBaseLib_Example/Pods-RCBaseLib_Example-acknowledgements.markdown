@@ -1,6 +1,11 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
+## CTMediator
+
+MIT
+
+
 ## RCBaseLib
 
 Copyright (c) 2023 iscodecheng <codecheng@icloud.com>

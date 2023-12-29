@@ -10,7 +10,9 @@
 #endif
 #endif
 
-#import "RCDemoViewController.h"
+#import "RCTabBarViewController.h"
+#import "UIColor+RCExtension.h"
+#import "CTMediator+RCUserInfo.h"
 
 FOUNDATION_EXPORT double RCBaseLibVersionNumber;
 FOUNDATION_EXPORT const unsigned char RCBaseLibVersionString[];

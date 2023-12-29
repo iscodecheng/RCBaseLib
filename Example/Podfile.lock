@@ -1,16 +1,23 @@
 PODS:
-  - RCBaseLib (0.1.0)
+  - CTMediator (48)
+  - RCBaseLib (0.1.0):
+    - CTMediator
 
 DEPENDENCIES:
   - RCBaseLib (from `../`)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - CTMediator
 
 EXTERNAL SOURCES:
   RCBaseLib:
     :path: "../"
 
 SPEC CHECKSUMS:
-  RCBaseLib: 2e786fa88383878253786b6c6739e524de2a1bd5
+  CTMediator: 3f3578b525b3a46a7a2f92a99922ec40363f4269
+  RCBaseLib: b19c874874147fe648d081bd72037478ad2948b6
 
-PODFILE CHECKSUM: e5a0eaa8ee8af9cd6897e9940b50930925dd78f2
+PODFILE CHECKSUM: 15cbadd39769521abd3032d102a4631a021144e2
 
 COCOAPODS: 1.14.3
